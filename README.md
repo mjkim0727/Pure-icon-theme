@@ -4,6 +4,7 @@ Mac-Like icon theme for Linux Desktops
 ## Based On
 
 * Fluent-icon-theme by vinceliuice
+* Stylish-icon-theme by mjkim0727
 
 ## To-Dos
 
