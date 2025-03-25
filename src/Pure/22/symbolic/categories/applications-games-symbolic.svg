@@ -11,7 +11,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -31,7 +37,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <g
-     fill="#363636"
+     fill="currentColor"
+     class="ColorScheme-Text"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="166667"
