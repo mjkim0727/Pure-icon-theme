@@ -35,10 +35,16 @@
      inkscape:current-layer="svg5"
      showguides="true" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
   <path
      id="rect346"
-     style="opacity:1;fill:#363636;fill-opacity:1;stroke-width:0.875"
-     d="m 7,4 v 6.5 c 0,1.769298 1.2993425,3.22184 3,3.462891 V 17 H 8.5 C 8.2230009,17 8,17.223 8,17.5 8,17.777 8.2230009,18 8.5,18 h 4 C 12.777,18 13,17.777 13,17.5 13,17.223 12.777,17 12.5,17 H 11 V 13.962891 C 12.700657,13.72184 14,12.269298 14,10.5 V 4 Z m 1,5 h 5 v 1.5 C 13,11.880712 11.880712,13 10.5,13 9.1192881,13 8,11.880712 8,10.5 Z"
-     sodipodi:nodetypes="csccssssssccsccccsssc" />
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.875"
+     class="ColorScheme-Text"
+     d="m 7,4 v 6.5 c 0,1.769298 1.2993425,3.22184 3,3.462891 V 17 H 8.5 C 8.2230009,17 8,17.223 8,17.5 8,17.777 8.2230009,18 8.5,18 h 4 C 12.777,18 13,17.777 13,17.5 13,17.223 12.777,17 12.5,17 H 11 V 13.962891 C 12.700657,13.72184 14,12.269298 14,10.5 V 4 Z m 1,5 h 5 v 1.5 C 13,11.880712 11.880712,13 10.5,13 9.1192881,13 8,11.880712 8,10.5 Z" />
 </svg>
