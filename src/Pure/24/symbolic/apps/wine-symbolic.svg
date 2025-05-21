@@ -35,10 +35,17 @@
      inkscape:current-layer="svg5"
      showguides="true" />
   <defs
-     id="defs2" />
+     id="defs2">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
   <path
      id="rect346"
-     style="opacity:1;fill:#363636;fill-opacity:1;stroke-width:0.875"
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.875"
+     class="ColorScheme-Text"
      d="m 8,5 v 6.5 c 0,1.769298 1.2993425,3.22184 3,3.462891 V 18 H 9.5 C 9.2230009,18 9,18.223 9,18.5 9,18.777 9.2230009,19 9.5,19 h 4 C 13.777,19 14,18.777 14,18.5 14,18.223 13.777,18 13.5,18 H 12 V 14.962891 C 13.700657,14.72184 15,13.269298 15,11.5 V 5 Z m 1,5 h 5 v 1.5 C 14,12.880712 12.880712,14 11.5,14 10.119288,14 9,12.880712 9,11.5 Z"
      sodipodi:nodetypes="csccssssssccsccccsssc" />
 </svg>
