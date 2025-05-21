@@ -34,9 +34,16 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
   <rect
-     style="fill:#363636;fill-opacity:1;stroke-width:2"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2"
+     class="ColorScheme-Text"
      id="rect234"
      width="10"
      height="10"
