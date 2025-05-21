@@ -3,23 +3,26 @@
    width="16"
    height="16"
    version="1.1"
-   id="svg1"
-   sodipodi:docname="format-text-italic-symbolic.svg"
+   id="svg2"
+   sodipodi:docname="ephy-tab-counter-symbolic.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs1">
+     id="defs2">
     <style
-      id="current-color-scheme"
-      type="text/css">
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text { color:#363636; }
     </style>
   </defs>
   <sodipodi:namedview
-     id="namedview1"
+     id="namedview2"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -35,10 +38,21 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg2" />
+  <title
+     id="title1">Gnome Symbolic Icon Theme</title>
   <path
      id="path1"
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="M 7 2 L 7 3 L 7.9433594 2.9941406 L 7.9414062 3 L 8.2832031 3 L 6.4804688 12 L 5 12 L 5 13 L 9 13 L 9 12 L 7.5 12 L 9.3046875 3 L 9.9433594 3 L 9.9453125 2.9941406 L 11 3 L 11 2 L 7 2 z " />
+     d="M 4 1 C 2.338 1 1 2.338 1 4 L 1 12 C 1 13.662 2.338 15 4 15 L 12 15 C 13.662 15 15 13.662 15 12 L 15 4 C 15 2.338 13.662 1 12 1 L 4 1 z M 4 2 L 12 2 C 13.108 2 14 2.892 14 4 L 14 12 C 14 13.108 13.108 14 12 14 L 4 14 C 2.892 14 2 13.108 2 12 L 2 4 C 2 2.892 2.892 2 4 2 z " />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

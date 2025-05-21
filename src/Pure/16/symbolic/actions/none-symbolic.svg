@@ -4,7 +4,7 @@
    height="16"
    version="1.1"
    id="svg1"
-   sodipodi:docname="format-text-italic-symbolic.svg"
+   sodipodi:docname="none-symbolic.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -12,11 +12,11 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <style
-      id="current-color-scheme"
-      type="text/css">
-      .ColorScheme-Text { color:#363636; }
-    </style>
+     <style
+        id="current-color-scheme"
+        type="text/css">.ColorScheme-Text {
+        color:#363636;
+        }</style>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -40,5 +40,5 @@
      id="path1"
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="M 7 2 L 7 3 L 7.9433594 2.9941406 L 7.9414062 3 L 8.2832031 3 L 6.4804688 12 L 5 12 L 5 13 L 9 13 L 9 12 L 7.5 12 L 9.3046875 3 L 9.9433594 3 L 9.9453125 2.9941406 L 11 3 L 11 2 L 7 2 z " />
+     d="M 2.4570312 1.8300781 L 1.8300781 2.4570312 L 7.3730469 8 L 1.8300781 13.541016 L 2.4570312 14.169922 L 8 8.6269531 L 13.542969 14.169922 L 14.169922 13.541016 L 8.6269531 8 L 14.169922 2.4570312 L 13.542969 1.8300781 L 8 7.3730469 L 2.4570312 1.8300781 z " />
 </svg>
