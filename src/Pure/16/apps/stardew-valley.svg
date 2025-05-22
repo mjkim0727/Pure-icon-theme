@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="stardew-valley.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="50.5"
+     inkscape:cx="8.029703"
+     inkscape:cy="7.990099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7115"
+       id="linearGradient2"
+       x1="8"
+       y1="0"
+       x2="8"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7115">
+      <stop
+         style="stop-color:#160c4c;stop-opacity:1;"
+         offset="0"
+         id="stop7111" />
+      <stop
+         style="stop-color:#02519e;stop-opacity:1;"
+         offset="0.40000001"
+         id="stop8765" />
+      <stop
+         style="stop-color:#0578e3;stop-opacity:1;"
+         offset="0.75"
+         id="stop8767" />
+      <stop
+         style="stop-color:#55d0ee;stop-opacity:1;"
+         offset="1"
+         id="stop7113" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient2)"
+     id="rect1"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <path
+     id="rect4226"
+     style="fill:#ffde00;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3,5.9999998 v 1 h 2 v -1 z M 5,13 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z"
+     sodipodi:nodetypes="ccccccccccccccc" />
+  <path
+     id="rect4694"
+     style="fill:#cd0000;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5,3 V 4 H 6 7 V 3 Z" />
+  <path
+     id="rect6139"
+     style="fill:#e2a052;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3,7.9999998 V 9.9999999 L 5,12 H 6 V 8.9999999 L 5,7.9999998 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect6948"
+     style="fill:#ffe2ac;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4,3.9999999 v 1.9999999 h 1 v 1 H 4 v 1 1.0000001 H 6 V 12 h 6 l 1,-1 V 6.9999998 h -3 l -0.5,1 -0.5,-1 H 8 7 v -2 L 6,4 Z"
+     sodipodi:nodetypes="cccccccccccccccccccc" />
+  <path
+     id="path7190"
+     style="fill:#e2a052;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4,4.9999998 v 1 h 2 v -1 z m 2,1 v 1 h 1 v -1 z m 2,2 V 8.9999999 H 9 V 7.9999998 Z m 3,0 v 1.0000001 h 1 V 7.9999998 Z m 1,1.0000001 V 11 h 1 V 8.9999999 Z M 12,11 h -2 v 1 h 2 z m -4,0 v 1 h 1 v -1 z" />
+  <path
+     id="rect6401"
+     style="fill:#9f4b00;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7,12 v 1 h 1 v -1 z m 3,0 v 1 h 1 v -1 z" />
+  <path
+     id="rect2710"
+     style="fill:#703404;fill-opacity:1;stroke-width:6.19677;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5,2 V 3 H 7 V 4 H 8 V 2 Z M 7,4 H 6 V 5 H 7 Z M 7,5 V 8 H 8 V 7 H 9 V 6 H 8 V 5 Z m 2,2 v 1 h 1 V 7 Z m 1,0 h 3 V 6 h -3 z m 3,0 v 1 2 1 h 1 V 7 Z m 0,4 h -1 v 1 h 1 z m -1,1 h -1 v 1 h 1 z m -1,1 h -1 v 1 h 1 z m -1,0 V 12 H 8 v 1 z M 8,13 H 7 v 1 H 8 Z M 7,13 V 12 H 5 v 1 z M 5,13 H 4 v 1 H 5 Z M 5,12 V 11 H 4 v 1 z M 4,11 V 10 H 3 v 1 z M 3,10 V 8 H 2 v 2 z M 3,8 H 4 V 7 H 3 Z M 3,7 V 6 H 2 V 7 Z M 3,6 H 4 V 5 4 H 3 Z M 4,4 H 5 V 3 H 4 Z M 6,5 H 5 v 1 h 1 z m 3,4 v 1 h 2 V 9 Z" />
+</svg>
