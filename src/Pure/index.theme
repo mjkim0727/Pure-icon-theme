@@ -768,6 +768,7 @@ Context=Status
 Size=256
 Scale=2
 Type=Fixed
+
 # symbolic icons 
 
 [16/symbolic/actions]
