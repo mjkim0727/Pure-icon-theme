@@ -1,8 +1,45 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g fill="#363636">
-  <rect transform="rotate(-45)" x="-4.8736" y="6.1873" width="10" height="1" rx="0" ry="0" stroke-linecap="round" stroke-width="2"/>
-  <rect transform="matrix(-.70711 -.70711 -.70711 .70711 0 0)" x="-16.187" y="-5.1264" width="10" height="1" rx="0" ry="0" stroke-linecap="round" stroke-width="2"/>
-  <path d="m1.9941 7.0001 0.00977 0.095703c-0.017917-0.18624-0.022535-0.16735 0.00195 0.048828l0.67578 5.9687c0.079797 0.70436 0.31177 1.3721 0.74414 1.9199 0.43237 0.54786 1.1317 0.9668 1.918 0.9668h5.3125c0.78623 0 1.4856-0.41893 1.918-0.9668 0.43237-0.54786 0.66434-1.2156 0.74414-1.9199l0.67578-5.9707c0.02396-0.21345 0.01906-0.23158 2e-3 -0.048828l0.0078-0.09375h-1.0039c-1e-3 0.01065 0.0012 0.020561 0 0.03125l-0.67578 5.9687c-0.12473 1.101-0.74464 2-1.668 2h-5.3125c-0.92333 0-1.5432-0.89904-1.668-2l-0.67578-5.9687c-0.00121-0.010689 0.00102-0.0206 0-0.03125z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-  <path d="m7.9492 7.0001a3 3 0 0 0-2.9492 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-0.050781 0zm0.00195 1a2 2 0 0 1 0.048828 0 2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 1.9512-2z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="twitter-home-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="rect1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 5.1265242 6.1871843 L 4.126631 6.1871843 L -4.8724077 6.1871843 L -4.8737887 7.1884586 L -4.2053519 7.1884586 L -7.3762838 11.168696 C -7.8179166 11.723179 -8.1260654 12.359388 -8.2076867 13.052473 C -8.2893505 13.7456 -8.0911047 14.536312 -7.5351066 15.09231 L -3.7786019 18.848815 C -3.2226533 19.404764 -2.4319201 19.603045 -1.7387645 19.521395 C -1.0456372 19.439731 -0.40943029 19.131581 0.14501213 18.689992 L 4.126631 15.517679 L 4.126631 16.186116 L 5.1265242 16.186116 L 5.1265242 7.1870775 L 5.1265242 6.1871843 z M 4.126631 7.1870775 L 4.126631 14.23881 L -0.4778495 17.906927 C -1.3445715 18.597254 -2.418581 18.794622 -3.0714951 18.141708 L -6.8279999 14.385204 C -7.4808928 13.732311 -7.2834677 12.658301 -6.5932183 11.791558 L -2.9264829 7.1884586 L 4.126631 7.1870775 z M 0.67119901 10.570694 A 3 3 0 0 0 -3.5355339 10.606602 A 3 3 0 0 0 -3.5355339 14.849242 A 3 3 0 0 0 0.70710678 14.849242 A 3 3 0 0 0 0.70710678 10.606602 A 3 3 0 0 0 0.67119901 10.570694 z M -0.034526698 11.279182 A 2 2 0 0 1 8.8817842e-16 11.313708 A 2 2 0 0 1 8.8817842e-16 14.142136 A 2 2 0 0 1 -2.8284271 14.142136 A 2 2 0 0 1 -2.8284271 11.313708 A 2 2 0 0 1 -0.034526698 11.279182 z "
+     transform="rotate(-45)" />
 </svg>

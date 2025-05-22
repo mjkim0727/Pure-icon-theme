@@ -1,6 +1,48 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#363636">
-        <path d="M5.994 2c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 0 0-.837.998C2.06 3.82 2 4.343 2 5v6c0 .658.06 1.179.225 1.617.164.439.461.79.837.998.753.416 1.674.37 2.932.385H10.006c1.258-.015 2.179.03 2.932-.385a1.88 1.88 0 0 0 .838-.998c.164-.438.224-.96.224-1.617V5c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.838-.998c-.752-.416-1.673-.37-2.931-.385H5.998zM6 3h4c1.259.015 2.087.06 2.453.262.184.1.29.212.387.472.097.26.16.674.16 1.266v6c0 .592-.063 1.006-.16 1.266-.098.26-.202.371-.385.472-.366.202-1.197.247-2.455.262H6c-1.259-.015-2.09-.06-2.455-.262-.184-.1-.287-.212-.385-.472C3.063 12.006 3 11.592 3 11V5c0-.592.063-1.006.16-1.266.098-.26.201-.371.385-.472C3.91 3.06 4.74 3.015 6 3z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
-        <path d="M6.117 6.247c.167-.07.34-.147.52-.234.184-.092.363-.19.536-.294a8.2 8.2 0 0 0 .494-.338c.161-.121.306-.248.433-.381H9v6H8V6.348c-.448.347-1.012.566-1.494.762z" style="line-height:1000%;-inkscape-font-specification:Ubuntu;text-align:center" font-weight="700" font-family="Ubuntu" letter-spacing="0" word-spacing="0" text-anchor="middle"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="zoom-original-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
+  <path
+     id="rect1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 4 2 C 2.892 2 2 2.892 2 4 L 2 12 C 2 13.108 2.892 14 4 14 L 12 14 C 13.108 14 14 13.108 14 12 L 14 4 C 14 2.892 13.108 2 12 2 L 4 2 z M 4 3 L 12 3 C 12.554 3 13 3.446 13 4 L 13 12 C 13 12.554 12.554 13 12 13 L 4 13 C 3.446 13 3 12.554 3 12 L 3 4 C 3 3.446 3.446 3 4 3 z M 8.0996094 5 C 7.9726094 5.133 7.8289688 5.2598594 7.6679688 5.3808594 C 7.5074705 5.4995005 7.3425534 5.6121329 7.1738281 5.71875 C 7.0008281 5.82275 6.8207188 5.9216719 6.6367188 6.0136719 C 6.4567188 6.1006719 6.2841875 6.1760937 6.1171875 6.2460938 L 6.5058594 7.109375 C 6.9878594 6.913375 7.552 6.6946563 8 6.3476562 L 8 11 L 9 11 L 9 5 L 8.0996094 5 z " />
 </svg>
