@@ -36,20 +36,18 @@
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect1577"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
   </defs>
   <path
      d="M 2,1 C 0.892,1 0,1.892 0,3 V 9.9999996 13 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 9.9999996 8.0000001 5 C 16,3.892 15.108,3 14,3 H 8 L 6,1 Z m 0,1 h 3.5859 l 2,2 H 14 c 0.554,0 1,0.446 1,1 V 6.2754 C 14.705,6.1043 14.36693,6.00001 14,6.00001 H 7.5859 l -2,2.0000001 H 2 c -0.36693,0 -0.705,0.10429 -1,0.27539 V 3 C 1,2.4460001 1.446,2 2,2 Z m 6,5 h 6 c 0.554,0 1,0.446 1,1.0000001 v 1.5 V 9.9999996 13 c 0,0.554 -0.446,1 -1,1 H 2 C 1.446,14 1,13.554 1,13 V 9.9999996 C 1,9.4460001 1.446,9.0000001 2,9.0000001 h 4 z"
-     style="paint-order:stroke fill markers;fill:#363636;fill-opacity:1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
      id="path5493" />
 </svg>
