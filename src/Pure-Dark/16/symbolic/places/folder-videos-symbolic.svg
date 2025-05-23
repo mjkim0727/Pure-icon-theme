@@ -3,16 +3,27 @@
    width="16"
    height="16"
    version="1.1"
-   viewBox="0 0 16 16"
-   id="svg323"
+   id="svg325"
    sodipodi:docname="folder-videos-symbolic.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs329">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
   <sodipodi:namedview
-     id="namedview325"
+     id="namedview327"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -21,23 +32,18 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="25.75"
-     inkscape:cx="6.3495146"
-     inkscape:cy="6.6990291"
+     inkscape:zoom="51.5"
+     inkscape:cx="5.6796117"
+     inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg323" />
-  <defs
-     id="defs319">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Text { color:#363636; }</style>
-  </defs>
+     inkscape:current-layer="svg325" />
   <path
-     id="path1171"
-     style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0 0 L 0 15 L 1 15 L 1 14 L 2 14 L 2 15 L 14 15 L 14 14 L 15 14 L 15 15 L 16 15 L 16 0 L 15 0 L 15 1 L 14 1 L 14 0 L 2 0 L 2 1 L 1 1 L 1 0 L 0 0 z M 3 1 L 13 1 L 13 7 L 3 7 L 3 1 z M 1 2 L 2 2 L 2 3 L 1 3 L 1 2 z M 14 2 L 15 2 L 15 3 L 14 3 L 14 2 z M 1 4 L 2 4 L 2 5 L 1 5 L 1 4 z M 14 4 L 15 4 L 15 5 L 14 5 L 14 4 z M 1 6 L 2 6 L 2 7 L 1 7 L 1 6 z M 14 6 L 15 6 L 15 7 L 14 7 L 14 6 z M 1 8 L 2 8 L 2 9 L 1 9 L 1 8 z M 3 8 L 13 8 L 13 14 L 3 14 L 3 8 z M 14 8 L 15 8 L 15 9 L 14 9 L 14 8 z M 1 10 L 2 10 L 2 11 L 1 11 L 1 10 z M 14 10 L 15 10 L 15 11 L 14 11 L 14 10 z M 1 12 L 2 12 L 2 13 L 1 13 L 1 12 z M 14 12 L 15 12 L 15 13 L 14 13 L 14 12 z " />
+     d="m 0,2 v 13 h 1 v -1 h 1 v 1 h 12 v -1 h 1 v 1 h 1 V 2 H 15 V 3 H 14 V 2 H 2 V 3 H 1 V 2 Z M 3,3 H 13 V 8 H 3 Z M 1,4 H 2 V 5 H 1 Z m 13,0 h 1 V 5 H 14 Z M 1,6 H 2 V 7 H 1 Z m 13,0 h 1 V 7 H 14 Z M 1,8 H 2 V 9 H 1 Z m 13,0 h 1 V 9 H 14 Z M 3,9 h 10 v 5 H 3 Z m -2,1 h 1 v 1 H 1 Z m 13,0 h 1 v 1 H 14 Z M 1,12 h 1 v 1 H 1 Z m 13,0 h 1 v 1 h -1 z"
+     class="ColorScheme-Text"
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     id="path1171" />
 </svg>
