@@ -12,10 +12,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-   id="defs1">
-   <style id="current-color-scheme" type="text/css">
-    .ColorScheme-Text { color:#363636; }
-   </style>
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
   </defs>
   <sodipodi:namedview
      id="namedview1"
