@@ -5,13 +5,23 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="emblem-ok-symbolic.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs8" />
+     id="defs8">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
   <sodipodi:namedview
      id="namedview6"
      pagecolor="#ffffff"
@@ -23,17 +33,17 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="51.875"
-     inkscape:cx="6.8819277"
-     inkscape:cy="8"
+     inkscape:cx="6.8722892"
+     inkscape:cy="7.9903614"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="m 14.1255,3.8285 0.835,0.835 L 6.82,12.803 3.04,9.0255 3.876,8.1885 6.82,11.132 Z"
-     fill="#363636"
      id="path2"
-     sodipodi:nodetypes="ccccccc" />
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 14.125 3.828125 L 6.8203125 11.132812 L 3.8769531 8.1894531 L 3.0390625 9.0253906 L 6.8203125 12.802734 L 14.960938 4.6640625 L 14.125 3.828125 z " />
 </svg>
