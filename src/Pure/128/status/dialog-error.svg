@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="dialog-error.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.46875"
-     inkscape:cx="63.922705"
+     inkscape:zoom="6.2109375"
+     inkscape:cx="64"
      inkscape:cy="64"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,12 +40,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5312"
        id="linearGradient2881"
-       x1="3"
+       x1="16"
        y1="3"
-       x2="29"
+       x2="16"
        y2="29"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.3076922,0,0,4.3076922,-4.923077,-4.923077)" />
+       gradientTransform="matrix(4.3076922,0,0,4.3076922,-4.9230769,-4.9230769)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5312">
@@ -60,19 +60,19 @@
     </linearGradient>
   </defs>
   <circle
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.61538;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.61539;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      id="path2871"
      cx="64"
      cy="65"
      r="56" />
   <circle
-     style="opacity:1;fill:url(#linearGradient2881);fill-opacity:1;stroke:none;stroke-width:8.61538;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:url(#linearGradient2881);fill-opacity:1;stroke:none;stroke-width:8.61539;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      id="path2873"
      cx="64"
      cy="64"
      r="56" />
   <path
-     d="M 41.61526,35.956744 35.95901,41.612994 58.346018,64 35.95901,86.387006 41.61526,92.043256 64.002268,69.65625 86.38474,92.043256 92.04099,86.387006 69.653982,63.999998 92.04099,41.612992 86.38474,35.956742 64.002268,58.343748 Z"
+     d="M 41.61526,35.956744 35.959009,41.612993 58.346017,64 35.959009,86.387007 41.61526,92.043256 64.002268,69.656249 86.38474,92.043256 92.040991,86.387007 69.653983,63.999997 92.040991,41.612992 86.38474,35.956741 64.002268,58.343748 Z"
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:7.5592;paint-order:fill markers stroke"
      id="path5343"
      sodipodi:nodetypes="ccccccccccccc" />
