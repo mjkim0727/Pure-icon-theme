@@ -37,24 +37,24 @@
      id="defs1">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#4852"
+       xlink:href="#linearGradient3147"
        id="linearGradient2"
-       x1="16"
-       y1="15.735369"
-       x2="16"
+       x1="8"
+       y1="16"
+       x2="8"
        y2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="4852">
+       id="linearGradient3147">
       <stop
-         style="stop-color:#272727;stop-opacity:1;"
+         style="stop-color:#0091f9;stop-opacity:1;"
          offset="0"
-         id="stop14555" />
+         id="stop3143" />
       <stop
-         style="stop-color:#5d5d5d;stop-opacity:1;"
+         style="stop-color:#41bbff;stop-opacity:1;"
          offset="1"
-         id="stop14557" />
+         id="stop3145" />
     </linearGradient>
   </defs>
   <rect

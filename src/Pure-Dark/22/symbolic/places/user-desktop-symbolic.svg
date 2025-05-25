@@ -38,12 +38,12 @@
     <style
        id="current-color-scheme"
        type="text/css">
-        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-Text { color:#f2f2f2; }
      </style>
   </defs>
   <path
      id="rect234"
-     style="fill:#f2f2f2;fill-opacity:1"
+     style="fill:currentColor;fill-opacity:1"
      class="ColorScheme-Text"
      d="M 5,5 C 3.8920022,5 3,5.8920022 3,7 v 8 c 0,1.107998 0.8920022,2 2,2 h 12 c 1.107998,0 2,-0.892002 2,-2 V 7 C 19,5.8920022 18.107998,5 17,5 Z m 0,1 h 12 c 0.553998,0 1,0.4460012 1,1 v 8 c 0,0.553998 -0.446002,1 -1,1 H 5 C 4.4460012,16 4,15.553998 4,15 V 7 C 4,6.4460012 4.4460012,6 5,6 Z m 0,8 v 1 h 12 v -1 z" />
 </svg>
