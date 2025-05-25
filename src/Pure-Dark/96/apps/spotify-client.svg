@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96.000006"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="spotify-client.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.28125"
+     inkscape:cx="48"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3">
+      <stop
+         style="stop-color:#2eb75b;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#96d573;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient5"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:5.25"
+     id="rect1"
+     width="84"
+     height="84"
+     x="6"
+     y="7"
+     ry="18" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:3"
+     id="rect2"
+     width="84"
+     height="84"
+     x="6"
+     y="6"
+     ry="18" />
+  <path
+     d="M 48.326844,43.879437 C 39.625785,43.082586 30.959595,44.265 23.143251,46.609905 c -1.584721,0.47685 -2.483984,2.146911 -2.009766,3.73242 0.47685,1.584723 2.146911,2.483985 3.732422,2.009766 14.367307,-4.31019 31.339711,-4.269426 45.416014,5.583984 1.356012,0.950907 3.226068,0.623058 4.177734,-0.73242 0.950907,-1.356012 0.623058,-3.226068 -0.73242,-4.177734 -7.96185,-5.573295 -16.699332,-8.349636 -25.400391,-9.146484 z M 49.932312,27.23295 c -10.329315,-0.791724 -20.589962,0.495739 -28.722655,2.935548 -2.382757,0.713904 -3.734363,3.225531 -3.017578,5.607423 0.713905,2.382756 3.22553,3.734361 5.607422,3.017577 13.734615,-4.120383 36.974346,-3.833775 50.126952,5.373048 2.035758,1.422561 4.839099,0.926928 6.263673,-1.107423 1.422561,-2.035758 0.926928,-4.839099 -1.107423,-6.263673 -8.423697,-5.896587 -18.821076,-8.770777 -29.150391,-9.5625 z M 45.53778,56.986857 c -7.53879,-0.396777 -14.659458,0.702777 -19.874998,3.310548 -1.482266,0.740916 -2.083059,2.543298 -1.341797,4.025391 0.740918,1.482264 2.543298,2.083056 4.025391,1.341795 3.784458,-1.892229 10.16379,-3.042675 16.875,-2.689452 6.711207,0.35322 13.766997,2.15613 19.195311,5.548827 1.404639,0.875799 3.253203,0.448401 4.130859,-0.955077 C 69.423345,66.16425 68.995947,64.315686 67.592469,63.43803 61.020783,59.330727 53.076573,57.383637 45.53778,56.986857 Z"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:url(#linearGradient5);stroke-width:3;stroke-linecap:round;enable-background:accumulate;stop-color:#000000"
+     id="path1" />
+</svg>
