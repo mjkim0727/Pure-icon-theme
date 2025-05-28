@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256.00002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="sound-recorder.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.109375"
+     inkscape:cx="127.8392"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(8)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1344">
+      <stop
+         style="stop-color:#da2d2d;stop-opacity:1;"
+         offset="0"
+         id="stop1340" />
+      <stop
+         style="stop-color:#ff7676;stop-opacity:1;"
+         offset="1"
+         id="stop1342" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1344"
+       id="linearGradient2"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(8)" />
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:14"
+     id="rect1"
+     width="224"
+     height="224"
+     x="16"
+     y="17"
+     ry="48" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:8"
+     id="rect2"
+     width="224"
+     height="224"
+     x="16"
+     y="16"
+     ry="48" />
+  <path
+     id="rect286"
+     style="fill:url(#linearGradient2);stroke-width:32;stroke-linecap:round;stroke-linejoin:round"
+     d="m 112,48 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 V 56 c 0,-4.432 -3.568,-8 -8,-8 z m 64,24 c -4.432,0 -8,3.568 -8,8 v 96 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 V 80 c 0,-4.432 -3.568,-8 -8,-8 z M 80,88 c -4.432,0 -8,3.568 -8,8 v 64 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 V 96 c 0,-4.432 -3.568,-8 -8,-8 z m 64,8 c -4.432,0 -8,3.568 -8,8 v 48 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 v -48 c 0,-4.432 -3.568,-8 -8,-8 z m -96,16 c -4.432,0 -8,3.568 -8,8 v 16 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 v -16 c 0,-4.432 -3.568,-8 -8,-8 z m 160,0 c -4.432,0 -8,3.568 -8,8 v 16 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 v -16 c 0,-4.432 -3.568,-8 -8,-8 z" />
+  <rect
+     style="opacity:0.5;fill:#ffffff;stroke-width:32;stroke-linecap:round;stroke-linejoin:round"
+     id="rect288"
+     width="16"
+     height="32"
+     x="200.00002"
+     y="112"
+     ry="8" />
+  <rect
+     style="opacity:0.5;fill:#ffffff;stroke-width:32;stroke-linecap:round;stroke-linejoin:round"
+     id="rect290"
+     width="16"
+     height="80"
+     x="72.000015"
+     y="88"
+     ry="8" />
+  <rect
+     style="opacity:0.5;fill:#ffffff;stroke-width:32;stroke-linecap:round;stroke-linejoin:round"
+     id="rect404"
+     width="16"
+     height="64"
+     x="136"
+     y="96"
+     ry="8" />
+</svg>

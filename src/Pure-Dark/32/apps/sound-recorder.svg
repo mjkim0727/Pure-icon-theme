@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="sound-recorder.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="25.25"
+     inkscape:cx="15.980198"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1344">
+      <stop
+         style="stop-color:#da2d2d;stop-opacity:1;"
+         offset="0"
+         id="stop1340" />
+      <stop
+         style="stop-color:#ff7676;stop-opacity:1;"
+         offset="1"
+         id="stop1342" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1344"
+       id="linearGradient2"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     style="fill:#000000;stroke-width:1.75;opacity:0.2"
+     id="rect1"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:url(#linearGradient4)"
+     id="rect2"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <path
+     id="rect286"
+     style="fill:url(#linearGradient2);stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14 6 C 13.446 6 13 6.446 13 7 L 13 25 C 13 25.554 13.446 26 14 26 C 14.554 26 15 25.554 15 25 L 15 7 C 15 6.446 14.554 6 14 6 z M 22 9 C 21.446 9 21 9.446 21 10 L 21 22 C 21 22.554 21.446 23 22 23 C 22.554 23 23 22.554 23 22 L 23 10 C 23 9.446 22.554 9 22 9 z M 10 11 C 9.446 11 9 11.446 9 12 L 9 20 C 9 20.554 9.446 21 10 21 C 10.554 21 11 20.554 11 20 L 11 12 C 11 11.446 10.554 11 10 11 z M 18 12 C 17.446 12 17 12.446 17 13 L 17 19 C 17 19.554 17.446 20 18 20 C 18.554 20 19 19.554 19 19 L 19 13 C 19 12.446 18.554 12 18 12 z M 6 14 C 5.446 14 5 14.446 5 15 L 5 17 C 5 17.554 5.446 18 6 18 C 6.554 18 7 17.554 7 17 L 7 15 C 7 14.446 6.554 14 6 14 z M 26 14 C 25.446 14 25 14.446 25 15 L 25 17 C 25 17.554 25.446 18 26 18 C 26.554 18 27 17.554 27 17 L 27 15 C 27 14.446 26.554 14 26 14 z " />
+  <rect
+     style="opacity:0.5;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect288"
+     width="2"
+     height="4"
+     x="25.000002"
+     y="14"
+     ry="1" />
+  <rect
+     style="opacity:0.5;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect290"
+     width="2"
+     height="10"
+     x="9.0000019"
+     y="11"
+     ry="1" />
+  <rect
+     style="opacity:0.5;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect404"
+     width="2"
+     height="8"
+     x="17"
+     y="12"
+     ry="1" />
+</svg>
