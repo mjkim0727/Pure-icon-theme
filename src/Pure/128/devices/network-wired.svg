@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="network-wired.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,7 +29,7 @@
      inkscape:cx="56.099751"
      inkscape:cy="64"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,18 +51,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1094">
-      <stop
-         style="stop-color:#b3b6bc;stop-opacity:1;"
-         offset="0"
-         id="stop1090" />
-      <stop
-         style="stop-color:#d8dadc;stop-opacity:1;"
-         offset="1"
-         id="stop1092" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient936">
       <stop
          style="stop-color:#363636;stop-opacity:1;"
@@ -73,16 +61,6 @@
          offset="1"
          id="stop934" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1094"
-       id="linearGradient3500"
-       x1="2"
-       y1="2"
-       x2="30"
-       y2="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(4)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient936"
@@ -103,15 +81,45 @@
        y2="10"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(4,0,0,4,0,-2)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1094"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(4)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1094">
+      <stop
+         style="stop-color:#b3b6bc;stop-opacity:1;"
+         offset="0"
+         id="stop1090" />
+      <stop
+         style="stop-color:#d8dadc;stop-opacity:1;"
+         offset="1"
+         id="stop1092" />
+    </linearGradient>
   </defs>
-  <path
-     d="M 52,9 C 15.595238,9 8,16.759268 8,53 v 24 c 0,36.24073 7.595238,44 44,44 h 24 c 36.40476,0 44,-7.75927 44,-44 V 53 C 120,16.759268 112.40476,9 76,9"
-     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     id="path563" />
-  <path
-     id="path530"
-     style="fill:url(#linearGradient3500);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:7"
+     id="rect1"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:4"
+     id="rect2"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
   <path
      id="rect372"
      style="fill:url(#linearGradient938);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
