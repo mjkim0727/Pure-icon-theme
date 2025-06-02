@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48.000003"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="jockey.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="16.833333"
+     inkscape:cx="23.970298"
+     inkscape:cy="23.940595"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.5)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient981"
+       id="linearGradient6"
+       x1="11"
+       y1="4"
+       x2="11"
+       y2="18"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8571427,0,0,1.8571427,3.5714289,3.5714289)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient981">
+      <stop
+         style="stop-color:#858585;stop-opacity:1;"
+         offset="0"
+         id="stop977" />
+      <stop
+         style="stop-color:#595959;stop-opacity:1;"
+         offset="1"
+         id="stop979" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.625"
+     id="rect1"
+     width="42"
+     height="42"
+     x="3"
+     y="4"
+     ry="9" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:1.5"
+     id="rect2"
+     width="42"
+     height="42"
+     x="3"
+     y="3"
+     ry="9" />
+  <path
+     id="rect2662"
+     style="fill:#f2f2f2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 19,8 c -0.553998,0 -1,0.4460012 -1,1 v 9 H 9 c -0.5539984,0 -1,0.446002 -1,1 0,0.553998 0.4460016,1 1,1 h 9 v 3 H 9 c -0.5539984,0 -1,0.446002 -1,1 0,0.553998 0.4460016,1 1,1 h 9 v 3 H 9 c -0.5539984,0 -1,0.446002 -1,1 0,0.553998 0.4460016,1 1,1 h 9 v 9 c 0,0.553998 0.446002,1 1,1 0.553998,0 1,-0.446002 1,-1 v -9 h 3 v 9 c 0,0.553998 0.446002,1 1,1 0.553998,0 1,-0.446002 1,-1 v -9 h 3 v 9 c 0,0.553998 0.446002,1 1,1 0.553998,0 1,-0.446002 1,-1 v -9 h 9 c 0.553998,0 1,-0.446002 1,-1 0,-0.553998 -0.446002,-1 -1,-1 h -9 v -3 h 9 c 0.553998,0 1,-0.446002 1,-1 0,-0.553998 -0.446002,-1 -1,-1 h -9 v -3 h 9 c 0.553998,0 1,-0.446002 1,-1 0,-0.553998 -0.446002,-1 -1,-1 H 30 V 9 C 30,8.4460012 29.553998,8 29,8 28.446002,8 28,8.4460012 28,9 v 9 H 25 V 9 C 25,8.4460012 24.553998,8 24,8 23.446002,8 23,8.4460012 23,9 v 9 H 20 V 9 C 20,8.4460012 19.553998,8 19,8 Z m 1,12 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z m -5,5 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:3.71428"
+     id="rect3"
+     width="26"
+     height="26"
+     x="11"
+     y="11.866667"
+     ry="5" />
+  <rect
+     style="fill:url(#linearGradient6);stroke-width:3.71428"
+     id="rect4"
+     width="26"
+     height="26"
+     x="11"
+     y="11"
+     ry="5" />
+</svg>
