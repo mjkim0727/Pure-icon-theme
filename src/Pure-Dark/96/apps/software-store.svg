@@ -37,7 +37,7 @@
      id="defs1">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3147"
+       xlink:href="#4852"
        id="linearGradient4"
        x1="16"
        y1="30"
@@ -47,15 +47,15 @@
        gradientTransform="scale(3)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3147">
+       id="4852">
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#272727;stop-opacity:1;"
          offset="0"
-         id="stop3143" />
+         id="stop14555" />
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#5d5d5d;stop-opacity:1;"
          offset="1"
-         id="stop3145" />
+         id="stop14557" />
     </linearGradient>
   </defs>
   <rect
@@ -76,6 +76,6 @@
      ry="18" />
   <path
      style="color:#000000;fill:#ececec;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 48,30 C 39.733503,30 33,23.266496 33,15 A 1.5,1.5 0 0 1 34.5,13.5 1.5,1.5 0 0 1 36,15 c 0,6.645177 5.354823,12 12,12 6.645177,0 12,-5.354823 12,-12 A 1.5,1.5 0 0 1 61.5,13.5 1.5,1.5 0 0 1 63,15 c 0,8.266496 -6.733503,15 -15,15 z"
+     d="M 48,30 C 39.733503,30 33,23.266497 33,15 A 1.5,1.5 0 0 1 34.5,13.5 1.5,1.5 0 0 1 36,15 c 0,6.645177 5.354823,12 12,12 6.645177,0 12,-5.354823 12,-12 A 1.5,1.5 0 0 1 61.5,13.5 1.5,1.5 0 0 1 63,15 c 0,8.266497 -6.733503,15 -15,15 z"
      id="path6892" />
 </svg>
