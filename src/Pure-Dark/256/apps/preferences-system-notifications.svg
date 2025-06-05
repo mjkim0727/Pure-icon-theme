@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256.00002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="preferences-system-notifications.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.109375"
+     inkscape:cx="127.8392"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(8,0,2.983808e-8,8.0001308,-0.36510915,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient937"
+       id="linearGradient2"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(8,0,0.04573981,8,-0.36510915,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient937">
+      <stop
+         style="stop-color:#ed2b19;stop-opacity:1;"
+         offset="0"
+         id="stop933" />
+      <stop
+         style="stop-color:#f28379;stop-opacity:1;"
+         offset="1"
+         id="stop935" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:14.0001"
+     id="rect1"
+     width="224"
+     height="224.00366"
+     x="15.634892"
+     y="17.000278"
+     ry="48.000786"
+     transform="matrix(1,0,0.00571738,0.99998366,0,0)" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:8.00007"
+     id="rect2"
+     width="224"
+     height="224.00366"
+     x="15.634892"
+     y="16.000261"
+     ry="48.000786"
+     transform="matrix(1,0,0.00571738,0.99998366,0,0)" />
+  <path
+     id="rect1090"
+     style="fill:url(#linearGradient2);stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="m 72.04655,72 c -8.863992,0 -15.9592,7.136008 -15.908521,16 l 0.411659,72 c 0.05068,8.86399 7.227487,16 16.091479,16 h 56.000003 l 32.18296,32 -0.18296,-32 h 24 c 8.864,0 15.9592,-7.13601 15.90852,-16 l -0.41166,-72 c -0.0507,-8.863992 -7.22748,-16 -16.09148,-16 z"
+     sodipodi:nodetypes="sssscccsssss" />
+  <path
+     d="m 72.04655,72 c -8.863992,0 -15.9592,7.136008 -15.908521,16 l 0.411659,72 c 0.05068,8.86399 7.227487,16 16.091479,16 h 56.000003 l 32.18296,32 -0.18296,-32 h 24 c 8.864,0 15.9592,-7.13601 15.90852,-16 l -0.41166,-72 c -0.0507,-8.863992 -7.22748,-16 -16.09148,-16 z"
+     style="opacity:0.3;fill:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     id="path1" />
+  <ellipse
+     style="fill:#ffffff;stroke-width:10.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     id="path1197"
+     cx="187.63489"
+     cy="84.001373"
+     rx="20"
+     ry="20.000326"
+     transform="matrix(1,0,0.00571738,0.99998366,0,0)" />
+</svg>
