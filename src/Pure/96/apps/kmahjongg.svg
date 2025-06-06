@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96.000006"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="kmahjongg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.2916667"
+     inkscape:cx="47.939698"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5312"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5312">
+      <stop
+         style="stop-color:#c72222;stop-opacity:1;"
+         offset="0"
+         id="stop5308" />
+      <stop
+         style="stop-color:#cf5b5b;stop-opacity:1;"
+         offset="1"
+         id="stop5310" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:5.25"
+     id="rect1"
+     width="84"
+     height="84"
+     x="6"
+     y="7"
+     ry="18" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:3"
+     id="rect2"
+     width="84"
+     height="84"
+     x="6"
+     y="6"
+     ry="18" />
+  <path
+     d="m 40.976517,15.542745 c -0.4923,0.434211 -0.61536,1.085529 -0.61536,1.845396 0,1.411185 0.49227,3.148026 0.73842,3.799341 0,0 0.36924,7.598697 0.4923,8.467119 -1.10766,0.10854 -3.0768,0.21711 -3.81522,0.434205 h -0.98457 c -2.09223,0.10857 -4.06137,0.21711 -4.922883,0.976977 l -0.36921,0.325662 0.36921,0.434208 c 0.615363,0.651315 0.861513,2.496708 1.107663,4.450662 0.61536,4.016439 1.35375,9.009867 5.04594,10.963809 l 0.73842,0.325662 v -0.75987 c 0,0 0.1233,-0.325662 0.1233,-0.759867 0,-0.325659 -0.1233,-0.868425 -0.246,-1.628295 0.98457,0.10854 3.0768,0.325662 3.81522,0.325662 C 42.576717,45.611835 45.776457,81 45.776457,81 h 1.23072 c 0,0 1.35381,-34.953948 1.35381,-36.039474 0.86148,0 4.67673,0.10854 5.78433,0.21711 -0.246,0.651315 -1.23069,3.365133 -1.23069,3.365133 l 1.72299,-1.411185 c 0.4923,-0.325656 11.19954,-8.901318 9.72267,-14.546052 -0.4923,-1.845399 -2.21529,-3.148029 -5.04594,-3.799341 h -0.1233 -0.1233 c -1.59993,0 -6.52278,0.10854 -10.21497,0.325656 0.1233,-2.82237 0.1233,-4.342116 0.1233,-5.101986 v -0.868422 -0.10854 c 0,-0.542769 0.61536,-1.302636 1.10766,-1.845399 0.4923,-0.651315 1.10766,-1.194078 1.10766,-1.845393 0,-0.21711 -0.1233,-0.434214 -0.246,-0.651315 -0.73842,-0.976974 -6.1536,-3.473685 -8.49195,-3.690792 -0.73842,0.10854 -1.23072,0.21711 -1.47687,0.542763 z m 0.1233,17.802645 h 0.61536 c 0,0.976971 0.36921,7.815789 0.49227,8.792763 -0.98457,-0.10857 -3.32292,-0.325653 -4.06134,-0.325653 -0.36921,-1.411188 -0.4923,-2.930925 -0.61536,-4.450662 -0.123,-1.302633 -0.246,-2.605263 -0.4923,-3.799347 1.10766,0 4.06137,-0.21711 4.06137,-0.21711 z m 7.50738,3.365133 c 0,0 0.123,-2.605263 0.123,-3.473685 1.5999,0.21711 3.69213,0.325653 5.66127,0.325653 h 2.21529 c 0,0.434214 -0.1233,0.976977 -0.1233,0.976977 -0.246,2.388159 -0.61536,5.210523 -1.72302,8.032896 -0.73839,0 -5.29206,-0.21711 -6.27663,-0.325656 0,-0.75987 0.1233,-5.536185 0.1233,-5.536185 z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:3;enable-background:new"
+     id="path861" />
+</svg>
