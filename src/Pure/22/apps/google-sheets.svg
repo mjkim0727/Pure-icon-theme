@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="google-sheets.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="36.181818"
+     inkscape:cx="10.986181"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:1.75"
+     id="rect1"
+     width="20"
+     height="20"
+     x="1"
+     y="1.5"
+     ry="4" />
+  <rect
+     style="fill:#fafafa;stroke-width:0.714286;fill-opacity:1"
+     id="rect2"
+     width="20"
+     height="20"
+     x="1"
+     y="1"
+     ry="4" />
+  <path
+     id="path1151"
+     style="fill:#34a853;fill-opacity:1;stroke-width:0.249999;stroke-linecap:square;stroke-linejoin:bevel"
+     d="M 7,4 C 6.4477155,4 6,4.4477155 6,5 v 12 c 0,0.552285 0.4477155,1 1,1 h 8 c 0.552285,0 1,-0.447715 1,-1 V 8 L 12.5,7.5 12,4 Z" />
+  <path
+     d="m 12,4 4,4 h -4 z"
+     style="fill:#188038;fill-opacity:1;stroke-width:0.19245;stroke-linecap:square;stroke-linejoin:bevel"
+     id="path1123" />
+  <path
+     id="rect1220"
+     style="fill:#ffffff;stroke-width:0.61237;stroke-linecap:square;stroke-linejoin:bevel"
+     d="m 7,10 v 5 h 7 v -5 z m 1,1 h 2 v 1 H 8 Z m 3,0 h 2 v 1 h -2 z m -3,2 h 2 v 1 H 8 Z m 3,0 h 2 v 1 h -2 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+</svg>
