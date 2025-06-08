@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="cs-desktop.svg"
+   sodipodi:docname="cs-panel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -37,7 +37,7 @@
      id="defs1">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3147"
+       xlink:href="#4852"
        id="linearGradient4"
        x1="16"
        y1="30"
@@ -47,15 +47,15 @@
        gradientTransform="scale(3)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3147">
+       id="4852">
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#272727;stop-opacity:1;"
          offset="0"
-         id="stop3143" />
+         id="stop14555" />
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#5d5d5d;stop-opacity:1;"
          offset="1"
-         id="stop3145" />
+         id="stop14557" />
     </linearGradient>
   </defs>
   <rect
@@ -80,18 +80,13 @@
      width="64"
      height="11"
      x="16"
-     y="16"
-     ry="4" />
+     y="69"
+     ry="3" />
   <rect
-     style="fill:#ffffff;stroke-width:5.65685;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ffffff;stroke-width:4.86056;stroke-linecap:round;stroke-linejoin:round"
      id="rect544"
-     width="24"
-     height="3"
-     x="36"
-     y="20"
-     ry="1.5" />
-  <path
-     id="rect544-3"
-     style="fill:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
-     d="M 20 33 C 17.784 33 16 34.784 16 37 L 16 42 C 16 44.216 17.784 46 20 46 L 25 46 C 27.216 46 29 44.216 29 42 L 29 37 C 29 34.784 27.216 33 25 33 L 20 33 z M 20 51 C 17.784 51 16 52.784 16 55 L 16 60 C 16 62.216 17.784 64 20 64 L 25 64 C 27.216 64 29 62.216 29 60 L 29 55 C 29 52.784 27.216 51 25 51 L 20 51 z " />
+     width="22"
+     height="5"
+     x="55"
+     y="72" />
 </svg>

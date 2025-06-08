@@ -37,7 +37,7 @@
      id="defs1">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3147"
+       xlink:href="#4852"
        id="linearGradient4"
        x1="16"
        y1="30"
@@ -47,15 +47,15 @@
        gradientTransform="scale(3)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3147">
+       id="4852">
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#272727;stop-opacity:1;"
          offset="0"
-         id="stop3143" />
+         id="stop14555" />
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#5d5d5d;stop-opacity:1;"
          offset="1"
-         id="stop3145" />
+         id="stop14557" />
     </linearGradient>
   </defs>
   <rect
