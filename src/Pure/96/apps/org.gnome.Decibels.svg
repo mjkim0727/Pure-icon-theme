@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96.000006"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="org.gnome.Decibels.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.1875"
+     inkscape:cx="47.938931"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4-0"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4-0">
+      <stop
+         style="stop-color:#6e50c1;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#a94e99;stop-opacity:1;"
+         offset="0.5"
+         id="stop4" />
+      <stop
+         style="stop-color:#ff4e4e;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:5.25"
+     id="rect1"
+     width="84"
+     height="84"
+     x="6"
+     y="7"
+     ry="18" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:3"
+     id="rect2"
+     width="84"
+     height="84"
+     x="6"
+     y="6"
+     ry="18" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     id="rect286"
+     width="6"
+     height="6"
+     x="15"
+     y="45"
+     ry="3" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     id="rect288"
+     width="6"
+     height="6"
+     x="75.000008"
+     y="45"
+     ry="3" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     id="rect290"
+     width="6"
+     height="18"
+     x="27.000006"
+     y="39"
+     ry="3" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:12.6491;stroke-linecap:round;stroke-linejoin:round"
+     id="rect400"
+     width="6"
+     height="42"
+     x="39.000008"
+     y="27"
+     ry="3" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     id="rect402"
+     width="6"
+     height="6"
+     x="63.000008"
+     y="45"
+     ry="3" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     id="rect404"
+     width="6"
+     height="24"
+     x="51"
+     y="36"
+     ry="3" />
+</svg>
