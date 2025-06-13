@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="virt-manager.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="50.5"
+     inkscape:cx="7.990099"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient2"
+       x1="16"
+       y1="15.735369"
+       x2="16"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient2)"
+     id="rect1"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <path
+     id="path1"
+     style="fill:#ececec"
+     d="M 12.25,5.0000001 10.25,10 h 1.5 L 13,7.0000001 14.25,10 h 1.5 l -2,-4.9999999 z" />
+  <path
+     id="path2"
+     style="fill:#909198"
+     d="M 10.75,5.0000001 8.75,10 h 1.5 L 11.5,7.0000001 12.75,10 h 1.5 l -2,-4.9999999 z" />
+  <path
+     id="path3"
+     style="fill:#ececec"
+     d="M 8.25,5.0000001 6.25,10 h 1.5 L 9,7.0000001 10.25,10 h 1.5 l -2,-4.9999999 z" />
+  <path
+     style="fill:#909198"
+     d="m 4.7499999,10 2,-5 H 8.25 l 2,5 H 8.75 L 7.4997975,7.0000001 6.2499999,10 H 4.7501007 Z"
+     id="path4" />
+  <path
+     id="path5"
+     style="fill:#a53655"
+     d="M 1.25,5.0000001 3.25,10 h 1.5 l 2,-4.9999999 h -1.5 l -1.25,3 -1.25,-3 z" />
+</svg>
