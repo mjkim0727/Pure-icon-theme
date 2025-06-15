@@ -28,3 +28,13 @@ Mac-Like icon theme for Linux Desktops
 ## Install
 
 ### via sources
+
+## Screenshot
+
+* ![kde_icon](src/Pure/16/apps/desktop-environment-kde.svg) KDE
+
+![kde](images/screenshot_kde.png)
+
+* ![gnome_icon](src/Pure/16/apps/desktop-environment-gnome.svg) GNOME
+
+![gnome](images/screenshot_gnome.png)
