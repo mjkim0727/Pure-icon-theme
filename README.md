@@ -29,6 +29,16 @@ Mac-Like icon theme for Linux Desktops
 
 ### via sources
 
+Open terminal, and run install.sh file.
+
+```
+$ ./install.sh
+```
+
+## Preview
+
+![preview](images/icon-preview.png)
+
 ## Screenshot
 
 * ![kde_icon](src/Pure/16/apps/desktop-environment-kde.svg) KDE
