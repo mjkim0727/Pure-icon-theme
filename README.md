@@ -23,7 +23,7 @@ Mac-Like icon theme for Linux Desktops
 
 - [ ] Improve Compatiblity for KDE 6
 
-- [ ] iOS18-Style Dark Mode icon
+- [x] iOS18-Style Dark Mode icon (Out-of-Box apps almost applied)
 
 ## Install
 
