@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="multimedia-video-player.svg"
+   sodipodi:docname="org.gnome.Showtime.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -37,47 +37,30 @@
      id="defs1">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#4852"
+       xlink:href="#linearGradient11"
        id="linearGradient4"
        x1="16"
        y1="30"
        x2="16"
        y2="2"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71428571,0,0,0.71428571,-0.42857143,-0.42857143)" />
+       gradientTransform="matrix(0.71428571,0,0,0.71428571,-0.42857141,-0.42857143)" />
     <linearGradient
        inkscape:collect="always"
-       id="4852">
+       id="linearGradient11">
       <stop
-         style="stop-color:#272727;stop-opacity:1;"
+         style="stop-color:#3cbc5f;stop-opacity:1;"
          offset="0"
-         id="stop14555" />
+         id="stop8" />
       <stop
-         style="stop-color:#5d5d5d;stop-opacity:1;"
+         style="stop-color:#e97b38;stop-opacity:1;"
+         offset="0.49418557"
+         id="stop10" />
+      <stop
+         style="stop-color:#bb69e5;stop-opacity:1;"
          offset="1"
-         id="stop14557" />
+         id="stop11" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1092">
-      <stop
-         style="stop-color:#a83ece;stop-opacity:1;"
-         offset="0"
-         id="stop1088" />
-      <stop
-         style="stop-color:#d07adc;stop-opacity:1;"
-         offset="1"
-         id="stop1090" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1092"
-       id="linearGradient2"
-       x1="11"
-       y1="21"
-       x2="11"
-       y2="1"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:1.75"
@@ -97,7 +80,11 @@
      ry="4" />
   <path
      d="M 7.7418775,5.1483904 C 6.9572796,4.7114634 6.0014135,5.2917205 6,6.2057938 v 9.6488112 c 0.00134,0.914072 0.9572796,1.494333 1.7418775,1.057405 l 8.6429595,-4.822517 c 0.820217,-0.456801 0.820217,-1.661786 0,-2.118586 z"
-     style="color:#000000;fill:url(#linearGradient2);fill-opacity:1;stroke-width:1.91139;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:1.91139;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;opacity:0.6"
      id="path11025"
      sodipodi:nodetypes="ccccccc" />
+  <path
+     id="path1"
+     style="fill:#f2f2f2;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8 12 L 8 14 L 6 14 L 6 15 L 8 15 L 8 16.767578 L 9 16.210938 L 9 16 L 9.3769531 16 L 11 15.09375 L 11 12 L 10 12 L 10 13 L 9 13 L 9 12 L 8 12 z M 9 14 L 10 14 L 10 15 L 9 15 L 9 14 z " />
 </svg>

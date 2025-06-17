@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="22"
-   height="22"
-   viewBox="0 0 22 22.000002"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24.000002"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="multimedia-video-player.svg"
+   sodipodi:docname="applications-multimedia.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="35.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:zoom="32.75"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -44,7 +44,7 @@
        x2="16"
        y2="2"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71428571,0,0,0.71428571,-0.42857143,-0.42857143)" />
+       gradientTransform="matrix(0.71428571,0,0,0.71428571,0.57142859,0.57142857)" />
     <linearGradient
        inkscape:collect="always"
        id="4852">
@@ -59,45 +59,50 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1092">
-      <stop
-         style="stop-color:#a83ece;stop-opacity:1;"
-         offset="0"
-         id="stop1088" />
-      <stop
-         style="stop-color:#d07adc;stop-opacity:1;"
-         offset="1"
-         id="stop1090" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1092"
+       xlink:href="#linearGradient3"
        id="linearGradient2"
        x1="11"
        y1="21"
        x2="11"
        y2="1"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1,1)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3">
+      <stop
+         style="stop-color:#a83ece;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#8775db;stop-opacity:1;"
+         offset="0.5"
+         id="stop3" />
+      <stop
+         style="stop-color:#5f9de2;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
   </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:1.75"
      id="rect1"
      width="20"
      height="20"
-     x="1"
-     y="1.5"
+     x="2"
+     y="2.5"
      ry="4" />
   <rect
      style="fill:url(#linearGradient4);stroke-width:0.714286"
      id="rect2"
      width="20"
      height="20"
-     x="1"
-     y="1"
+     x="2"
+     y="2"
      ry="4" />
   <path
-     d="M 7.7418775,5.1483904 C 6.9572796,4.7114634 6.0014135,5.2917205 6,6.2057938 v 9.6488112 c 0.00134,0.914072 0.9572796,1.494333 1.7418775,1.057405 l 8.6429595,-4.822517 c 0.820217,-0.456801 0.820217,-1.661786 0,-2.118586 z"
-     style="color:#000000;fill:url(#linearGradient2);fill-opacity:1;stroke-width:1.91139;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1"
+     d="M 8.7418775,6.1483904 C 7.9572796,5.7114634 7.0014135,6.2917205 7,7.2057938 v 9.6488112 c 0.00134,0.914072 0.9572796,1.494333 1.7418775,1.057405 l 8.6429595,-4.822517 c 0.820217,-0.456801 0.820217,-1.661786 0,-2.118586 z"
+     style="color:#000000;fill:url(#linearGradient2);stroke-width:1.91139;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1"
      id="path11025"
      sodipodi:nodetypes="ccccccc" />
 </svg>
