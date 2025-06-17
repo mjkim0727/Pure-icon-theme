@@ -21,7 +21,7 @@ Mac-Like icon theme for Linux Desktops
 
 - [ ] Packaging Icon Theme
 
-- [ ] Improve Compatiblity for KDE 6
+- [x] Improve Compatiblity for KDE 6 (22~24px symbolic icons)
 
 - [x] iOS18-Style Dark Mode icon (Out-of-Box apps almost applied)
 
