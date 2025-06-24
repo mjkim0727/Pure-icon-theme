@@ -40,12 +40,12 @@ $ ./install.sh
 
 ## Screenshot
 
-* ![kde_icon](src/Pure/16/apps/desktop-environment-kde.svg) KDE
+* ![kde_icon](src/Pure/22/apps/desktop-environment-kde.svg) KDE
 
 ![kde](images/screenshot_kde.png)
 
-* ![gnome_icon](src/Pure/16/apps/desktop-environment-gnome.svg) GNOME
+* ![gnome_icon](src/Pure/22/apps/desktop-environment-gnome.svg) GNOME
 
 ![gnome](images/screenshot_gnome.png)
 
-* ![xfce_icon](src/Pure/16/apps/desktop-environment-xfce.svg) Xfce
+* ![xfce_icon](src/Pure/22/apps/desktop-environment-xfce.svg) Xfce
