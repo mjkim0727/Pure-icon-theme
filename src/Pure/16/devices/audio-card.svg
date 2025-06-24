@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="audio-card.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,26 +25,17 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="18.252194"
-     inkscape:cx="12.299891"
-     inkscape:cy="12.820377"
+     inkscape:zoom="49.125"
+     inkscape:cx="7.9898219"
+     inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1940"
-       id="linearGradient1091"
-       x1="0"
-       y1="0"
-       x2="16"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1940">
@@ -61,10 +52,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient981"
        id="linearGradient2657"
-       x1="11"
-       y1="11"
-       x2="3"
-       y2="3"
+       x1="7"
+       y1="3"
+       x2="7"
+       y2="11"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1,1)" />
     <linearGradient
@@ -79,11 +70,24 @@
          offset="1"
          id="stop979" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1940"
+       id="linearGradient2"
+       x1="16"
+       y1="15.735369"
+       x2="16"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-  <path
-     id="path530"
-     style="fill:url(#linearGradient1091);fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-     d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
+  <rect
+     style="fill:url(#linearGradient2)"
+     id="rect1"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
   <path
      id="rect10194"
      style="fill:#f2f2f2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
