@@ -1,12 +1,11 @@
 # Pure-icon-theme
 Mac-Like icon theme for Linux Desktops
 
-(With In Progress)
-
 ## Features
 
 * Mac-Like Designs
 * KDE 6 Support
+* Dark Mode icons
 
 ## Based On
 
@@ -48,3 +47,5 @@ $ ./install.sh
 * ![gnome_icon](src/Pure/16/apps/desktop-environment-gnome.svg) GNOME
 
 ![gnome](images/screenshot_gnome.png)
+
+* ![xfce_icon](src/Pure/16/apps/desktop-environment-xfce.svg) Xfce
