@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="moonlight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="25.25"
+     inkscape:cx="15.960396"
+     inkscape:cy="15.980198"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#000000;stroke-width:1.75;opacity:0.2"
+     id="rect1"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:#565c64;fill-opacity:1"
+     id="rect2"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <path
+     id="path354"
+     style="fill:#ffffff"
+     d="M 16,5.0136719 V 14.292969 L 22.5625,7.7304688 A 10.5,10.5 0 0 0 16,5.0136719 Z m -1,0.021484 A 10.5,10.5 0 0 0 8.4492188,7.7421875 L 15,14.292969 Z M 23.269531,8.4375 16.707031,15 h 9.28125 A 10.5,10.5 0 0 0 23.269531,8.4375 Z M 7.7421875,8.4492188 A 10.5,10.5 0 0 0 5.0351562,15 H 14.292969 Z M 5.0351562,16 a 10.5,10.5 0 0 0 2.7050782,6.552734 L 14.292969,16 Z m 11.6718748,0 6.552735,6.552734 A 10.5,10.5 0 0 0 25.964844,16 Z M 15,16.707031 8.4472656,23.259766 A 10.5,10.5 0 0 0 15,25.964844 Z m 1,0 v 9.257813 a 10.5,10.5 0 0 0 6.552734,-2.705078 z" />
+</svg>

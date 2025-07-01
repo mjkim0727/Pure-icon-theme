@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="moonlight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="49.125"
+     inkscape:cx="8"
+     inkscape:cy="7.9898219"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#565c64;fill-opacity:1"
+     id="rect1"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <path
+     d="M 7.9996094,2.025 V 6.2925782 L 11.017187,3.275 C 10.161109,2.5623855 9.1088382,2.1264933 7.9996094,2.025 Z m -1,0.00195 c -1.1085464,0.1018788 -2.1600827,0.5377488 -3.015625,1.25 l 3.015625,3.0156282 z M 3.275,3.9820313 C 2.5623855,4.8381095 2.1264933,5.8903806 2.025,6.9996094 h 4.2675782 z m 8.447265,0.00195 -3.0156244,3.015625 h 4.2656244 c -0.101879,-1.1085464 -0.537749,-2.1600827 -1.25,-3.015625 z m -9.6953118,4.015625 c 0.1018788,1.1085464 0.5377488,2.1600827 1.25,3.0156247 l 3.015625,-3.0156247 z m 6.6796874,0 3.0175774,3.0175777 c 0.712614,-0.856078 1.148507,-1.9083489 1.25,-3.0175777 z M 6.9996094,8.7066407 3.9820313,11.724218 c 0.8560782,0.712614 1.9083493,1.148507 3.0175781,1.25 z m 1,0 v 4.2656243 c 1.1085464,-0.101879 2.1600826,-0.537749 3.0156246,-1.25 z"
+     style="fill:#ffffff"
+     id="path298" />
+</svg>

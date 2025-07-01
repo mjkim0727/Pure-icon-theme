@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128.00001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="moonlight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.2421875"
+     inkscape:cx="63.9199"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:7"
+     id="rect1"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:#565c64;fill-opacity:1;stroke-width:4"
+     id="rect2"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     id="path354"
+     style="fill:#ffffff;stroke-width:4"
+     d="m 65.953124,22.097656 v 37.117188 l 26.25,-26.25 a 42,42 0 0 0 -26.25,-10.867188 z m -4,0.08594 A 42,42 0 0 0 35.75,33.01172 l 26.203124,26.203124 z m 33.078124,13.609376 -26.25,26.25 h 37.125002 a 42,42 0 0 0 -10.875002,-26.25 z m -62.109372,0.04688 A 42,42 0 0 0 22.09375,62.042972 H 59.125 Z M 22.09375,66.042976 A 42,42 0 0 0 32.914064,92.253912 L 59.125,66.042972 Z m 46.687498,0 26.21094,26.210936 A 42,42 0 0 0 105.8125,66.042972 Z M 61.953124,68.8711 35.742188,95.08204 a 42,42 0 0 0 26.210936,10.82031 z m 4,0 v 37.03125 A 42,42 0 0 0 92.16406,95.082036 Z" />
+</svg>
