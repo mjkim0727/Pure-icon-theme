@@ -108,6 +108,8 @@ ln -s folder-blue-publicshare-open.svg folder-public-open.svg;
 ln -s folder-blue-publicshare-open.svg folder-publicshare-open.svg;
 ln -s folder-blue-recent-open.svg folder-recent-open.svg;
 ln -s folder-blue-recent.svg folder-recent.svg;
+ln -s folder-blue-script-open.svg folder-script-open.svg;
+ln -s folder-blue-script.svg folder-script.svg;
 ln -s folder-blue-temp.svg folder-temp.svg;
 ln -s folder-blue-temp-open.svg folder-temp-open.svg;
 ln -s folder-blue-template-open.svg folder-template-open.svg;
