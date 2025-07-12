@@ -35,6 +35,11 @@ sed -i 's/#2c89b7/#d54239/g' folder-red*.svg
 sed -i 's/#2077a5/#973232/g' folder-red*.svg
 sed -i 's/#36aded/#db4631/g' folder-red*.svg
 sed -i 's/#30c7f3/#de6c36/g' folder-red*.svg
+sed -i 's/folder-blue/folder-teal/g' folder-teal*.svg
+sed -i 's/#2c89b7/#3aa699/g' folder-teal*.svg
+sed -i 's/#2077a5/#186c5e/g' folder-teal*.svg
+sed -i 's/#36aded/#2b9778/g' folder-teal*.svg
+sed -i 's/#30c7f3/#26cab1/g' folder-teal*.svg
 sed -i 's/folder-blue/folder-yellow/g' folder-yellow*.svg
 sed -i 's/#2c89b7/#e7b64b/g' folder-yellow*.svg
 sed -i 's/#2077a5/#be8d1b/g' folder-yellow*.svg
