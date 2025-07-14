@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="slack.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="25.28125"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4852"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="4852">
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="0"
+         id="stop14555" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="1"
+         id="stop14557" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#000000;stroke-width:1.75;opacity:0.2"
+     id="rect1"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:url(#linearGradient4)"
+     id="rect2"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <path
+     style="fill:#36c5f0"
+     d="m 14,7 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 h 2 V 9 A 2,2 0 0 0 14,7 Z m -7,7 a 2,2 0 0 0 2,2 h 5 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 H 9 a 2,2 0 0 0 -2,2 z"
+     id="path4" />
+  <path
+     style="fill:#2eb67d"
+     d="m 24,12 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 h -2 v -2 a 2,2 0 0 1 2,-2 z M 19,7 a 2,2 0 0 0 -2,2 v 5 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 V 9 A 2,2 0 0 0 19,7 Z"
+     id="path5" />
+  <path
+     style="fill:#ecb22e"
+     d="m 19,26 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 h -2 v 2 a 2,2 0 0 0 2,2 z m -2,-7 a 2,2 0 0 0 2,2 h 5 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 h -5 a 2,2 0 0 0 -2,2 z"
+     id="path6" />
+  <path
+     style="fill:#e01e5a"
+     d="M 9,21 A 2,2 0 0 1 7,19 2,2 0 0 1 9,17 h 2 v 2 a 2,2 0 0 1 -2,2 z m 5,-4 a 2,2 0 0 0 -2,2 v 5 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 v -5 a 2,2 0 0 0 -2,-2 z"
+     id="path7" />
+</svg>
