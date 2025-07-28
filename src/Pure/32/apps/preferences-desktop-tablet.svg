@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="preferences-desktop-tablet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="25.25"
+     inkscape:cx="16"
+     inkscape:cy="15.960396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1144"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1144">
+      <stop
+         style="stop-color:#adb2b9;stop-opacity:1;"
+         offset="0"
+         id="stop1140" />
+      <stop
+         style="stop-color:#e0e2e4;stop-opacity:1;"
+         offset="1"
+         id="stop1142" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#000000;stroke-width:1.75;opacity:0.2"
+     id="rect1"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:url(#linearGradient4)"
+     id="rect2"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <rect
+     style="opacity:1;fill:#f2f2f2;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+     id="rect346"
+     width="20"
+     height="18"
+     x="6"
+     y="7"
+     ry="2" />
+  <path
+     d="m 25.171573,6 -9.192388,9.192388 -0.707107,3.535533 3.535534,-0.707106 L 28,8.828427 Z"
+     style="fill:#4d4d4d;stroke-width:0.500001;fill-opacity:1"
+     id="path1089"
+     sodipodi:nodetypes="cccccc" />
+</svg>
