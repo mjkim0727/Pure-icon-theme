@@ -7,7 +7,7 @@
    viewBox="0 0 64 64.000004"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="12.625"
-     inkscape:cx="31.960396"
+     inkscape:cx="31.920792"
      inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -61,11 +61,11 @@
        inkscape:collect="always"
        id="linearGradient3147">
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#7e7e7e;stop-opacity:1;"
          offset="0"
          id="stop3143" />
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#a6a6a6;stop-opacity:1;"
          offset="1"
          id="stop3145" />
     </linearGradient>
@@ -97,7 +97,7 @@
      ry="12" />
   <path
      id="rect954"
-     style="fill:url(#linearGradient2);stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient2);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="m 16,15 c -2.216,0 -4,1.784 -4,4 v 24 c 0,3.323996 2.676003,6 6,6 h 28 c 3.323996,0 6,-2.676004 6,-6 V 27 c 0,-3.323996 -2.676004,-6 -6,-6 H 32 v -2 c 0,-2.216 -1.784,-4 -4,-4 z" />
   <path
      id="rect954-6"
