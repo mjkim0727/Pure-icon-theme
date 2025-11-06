@@ -4,7 +4,7 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 64 64.000004"
+   viewBox="0 0 64 64.000005"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="12.625"
+     inkscape:zoom="12.46875"
      inkscape:cx="32"
-     inkscape:cy="31.920792"
+     inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -61,23 +61,24 @@
        inkscape:collect="always"
        id="linearGradient3147">
       <stop
-         style="stop-color:#38b053;stop-opacity:1;"
+         style="stop-color:#ffb733;stop-opacity:1;"
          offset="0"
          id="stop3143" />
       <stop
-         style="stop-color:#5eeb2f;stop-opacity:1;"
+         style="stop-color:#f4d695;stop-opacity:1;"
          offset="1"
          id="stop3145" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3147"
-       id="linearGradient3"
-       x1="52"
-       y1="49"
-       x2="52"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
+       id="linearGradient2"
+       x1="104"
+       y1="98"
+       x2="104"
+       y2="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.5)" />
   </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:3.5"
@@ -97,8 +98,8 @@
      ry="12" />
   <path
      id="rect954"
-     style="fill:url(#linearGradient3);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-     d="m 16,15 c -2.216,0 -4,1.784 -4,4 v 24 c 0,3.323996 2.676003,6 6,6 h 28 c 3.323996,0 6,-2.676004 6,-6 V 27 c 0,-3.323996 -2.676004,-6 -6,-6 H 32 v -2 c 0,-2.216 -1.784,-4 -4,-4 z" />
+     style="fill:url(#linearGradient2);stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 16,15 c -2.216,0 -4,1.784 -4,4 v 24 c 0,3.323995 2.676003,6 6,6 h 28 c 3.323995,0 6,-2.676005 6,-6 V 27 c 0,-3.323996 -2.676005,-6 -6,-6 H 32 v -2 c 0,-2.216 -1.784,-4 -4,-4 z" />
   <path
      id="rect954-6"
      style="opacity:0.5;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
