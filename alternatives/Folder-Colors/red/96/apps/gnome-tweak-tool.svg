@@ -25,10 +25,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="8.28125"
-     inkscape:cx="48"
-     inkscape:cy="48"
+     inkscape:cx="47.939623"
+     inkscape:cy="47.939623"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
        gradientTransform="scale(3)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient21236"
+       xlink:href="#linearGradient3147"
        id="linearGradient2973"
        x1="33"
        y1="30"
@@ -67,18 +67,6 @@
        y2="14"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5,0,0,1.5,-1.4999995,-2.9999993)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient21236">
-      <stop
-         style="stop-color:#3689e6;stop-opacity:1;"
-         offset="0"
-         id="stop21232" />
-      <stop
-         style="stop-color:#5dcffc;stop-opacity:1;"
-         offset="1"
-         id="stop21234" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1606"
@@ -89,6 +77,18 @@
        y2="5.0000005"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5,0,0,1.5,1.5000003,-1.5000002)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3147">
+      <stop
+         style="stop-color:#db4631;stop-opacity:1;"
+         offset="0"
+         id="stop3143" />
+      <stop
+         style="stop-color:#ec8a8a;stop-opacity:1;"
+         offset="1"
+         id="stop3145" />
+    </linearGradient>
   </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:5.25"

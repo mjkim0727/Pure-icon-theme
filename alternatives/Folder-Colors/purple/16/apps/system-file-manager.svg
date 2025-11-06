@@ -7,7 +7,7 @@
    viewBox="0 0 16 16.000001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="50.5"
-     inkscape:cx="8.009901"
+     inkscape:cx="8.019802"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -58,25 +58,25 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient3147">
+      <stop
+         style="stop-color:#872bd3;stop-opacity:1;"
+         offset="0"
+         id="stop3143" />
+      <stop
+         style="stop-color:#b67ed8;stop-opacity:1;"
+         offset="1"
+         id="stop3145" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient3147"
-       id="linearGradient2-7"
+       id="linearGradient3"
        x1="13"
        y1="13"
        x2="13"
        y2="4"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3147">
-      <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
-         offset="0"
-         id="stop3143" />
-      <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
-         offset="1"
-         id="stop3145" />
-    </linearGradient>
   </defs>
   <rect
      style="fill:url(#linearGradient2)"
@@ -88,7 +88,7 @@
      ry="4" />
   <path
      id="rect346"
-     style="fill:url(#linearGradient2-7);stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient3);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="M 4,4 C 3.446,4 3,4.446 3,5 v 6 c 0,1.104569 0.895431,2 2,2 h 6 c 1.104569,0 2,-0.895431 2,-2 V 8 C 13,6.895431 12.104569,6 11,6 H 8 V 5 C 8,4.446 7.554,4 7,4 Z"
      sodipodi:nodetypes="sssssssscsss" />
   <path

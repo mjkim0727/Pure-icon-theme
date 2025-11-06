@@ -60,18 +60,18 @@
        inkscape:collect="always"
        id="linearGradient3147">
       <stop
-         style="stop-color:#38b053;stop-opacity:1;"
+         style="stop-color:#872bd3;stop-opacity:1;"
          offset="0"
          id="stop3143" />
       <stop
-         style="stop-color:#5eeb2f;stop-opacity:1;"
+         style="stop-color:#b67ed8;stop-opacity:1;"
          offset="1"
          id="stop3145" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3147"
-       id="linearGradient3"
+       id="linearGradient2"
        x1="26"
        y1="25"
        x2="26"
@@ -96,7 +96,7 @@
      ry="6" />
   <path
      id="rect954"
-     style="fill:url(#linearGradient3);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     style="fill:url(#linearGradient2);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="M 8,8 C 6.892,8 6,8.892 6,10 v 12 c 0,1.661998 1.3380017,3 3,3 h 14 c 1.661998,0 3,-1.338002 3,-3 v -8 c 0,-1.661998 -1.338002,-3 -3,-3 H 16 V 10 C 16,8.892 15.108,8 14,8 Z" />
   <path
      id="rect954-1"

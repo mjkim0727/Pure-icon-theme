@@ -7,7 +7,7 @@
    viewBox="0 0 256 256.00002"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="3.15625"
-     inkscape:cx="128.15842"
+     inkscape:zoom="3.1171875"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -61,11 +61,11 @@
        inkscape:collect="always"
        id="linearGradient3147">
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#ff458c;stop-opacity:1;"
          offset="0"
          id="stop3143" />
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#ff87b7;stop-opacity:1;"
          offset="1"
          id="stop3145" />
     </linearGradient>
@@ -73,12 +73,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3147"
        id="linearGradient2"
-       x1="52"
-       y1="49"
-       x2="52"
-       y2="15"
+       x1="104"
+       y1="98"
+       x2="104"
+       y2="30"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(4)" />
+       gradientTransform="scale(2)" />
   </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:14"

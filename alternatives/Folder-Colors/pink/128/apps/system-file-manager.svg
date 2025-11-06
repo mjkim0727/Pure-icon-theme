@@ -7,7 +7,7 @@
    viewBox="0 0 128 128.00001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="6.3125"
-     inkscape:cx="64.079208"
+     inkscape:cx="64.158416"
      inkscape:cy="64"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -61,11 +61,11 @@
        inkscape:collect="always"
        id="linearGradient3147">
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#ff458c;stop-opacity:1;"
          offset="0"
          id="stop3143" />
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#ff87b7;stop-opacity:1;"
          offset="1"
          id="stop3145" />
     </linearGradient>
@@ -73,12 +73,11 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3147"
        id="linearGradient2"
-       x1="52"
-       y1="49"
-       x2="52"
-       y2="15"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(2)" />
+       x1="104"
+       y1="98"
+       x2="104"
+       y2="30"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:7"
@@ -98,7 +97,7 @@
      ry="24" />
   <path
      id="rect954"
-     style="fill:url(#linearGradient2);stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient2);stroke-width:8;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="m 32,30 c -4.432,0 -8,3.568 -8,8 v 48 c 0,6.647992 5.352006,12 12,12 h 56 c 6.647992,0 12,-5.352008 12,-12 V 54 C 104,47.352008 98.647992,42 92,42 H 64 v -4 c 0,-4.432 -3.568,-8 -8,-8 z" />
   <path
      id="rect954-6"

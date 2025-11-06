@@ -7,7 +7,7 @@
    viewBox="0 0 32 32.000002"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="24.5625"
-     inkscape:cx="16.020356"
+     inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -58,6 +58,18 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient3147">
+      <stop
+         style="stop-color:#e87600;stop-opacity:1;"
+         offset="0"
+         id="stop3143" />
+      <stop
+         style="stop-color:#e2c800;stop-opacity:1;"
+         offset="1"
+         id="stop3145" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient3147"
        id="linearGradient2"
        x1="26"
@@ -65,18 +77,6 @@
        x2="26"
        y2="8"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3147">
-      <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
-         offset="0"
-         id="stop3143" />
-      <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
-         offset="1"
-         id="stop3145" />
-    </linearGradient>
   </defs>
   <rect
      style="fill:#000000;stroke-width:1.75;opacity:0.2"
@@ -96,7 +96,7 @@
      ry="6" />
   <path
      id="rect954"
-     style="fill:url(#linearGradient2);stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient2);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="M 8,8 C 6.892,8 6,8.892 6,10 v 12 c 0,1.661998 1.3380017,3 3,3 h 14 c 1.661998,0 3,-1.338002 3,-3 v -8 c 0,-1.661998 -1.338002,-3 -3,-3 H 16 V 10 C 16,8.892 15.108,8 14,8 Z" />
   <path
      id="rect954-1"
