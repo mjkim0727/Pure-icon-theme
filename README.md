@@ -16,7 +16,7 @@ Mac-Like icon theme for Linux Desktops
 
 - [x] Full-Support KDE Color Scheme
 
- - [ ] Folder Color
+ - [x] Folder Color
 
 - [ ] Packaging Icon Theme
 
