@@ -14,7 +14,7 @@ Mac-Like icon theme for Linux Desktops
 
 ## To-Dos
 
-- [ ] Full-Support KDE Color Scheme
+- [x] Full-Support KDE Color Scheme
 
  - [ ] Folder Color
 
