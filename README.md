@@ -6,6 +6,7 @@ Mac-Like icon theme for Linux Desktops
 * Mac-Like Designs
 * KDE 6 Support
 * iOS18-Style Dark Mode icons
+* Folder Color Support
 
 ## Based On
 
