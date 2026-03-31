@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128.00001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="fbmessenger.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.3984375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1606">
+      <stop
+         style="stop-color:#eaebed;stop-opacity:1;"
+         offset="0"
+         id="stop1602" />
+      <stop
+         style="stop-color:#f9fafa;stop-opacity:1;"
+         offset="1"
+         id="stop1604" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1606"
+       id="linearGradient4"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(4)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient982"
+       id="radialGradient1977"
+       cx="29.445274"
+       cy="36.813942"
+       fx="29.445274"
+       fy="36.813942"
+       r="20"
+       gradientTransform="matrix(3.066713e-7,4.2996184,-4.2001772,4.9975196e-7,195.35234,-22.546416)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient982">
+      <stop
+         style="stop-color:#0099ff;stop-opacity:1;"
+         offset="0"
+         id="stop978" />
+      <stop
+         style="stop-color:#a033ff;stop-opacity:1;"
+         offset="0.60000002"
+         id="stop986" />
+      <stop
+         style="stop-color:#ff5280;stop-opacity:1;"
+         offset="0.93000001"
+         id="stop988" />
+      <stop
+         style="stop-color:#ff7061;stop-opacity:1;"
+         offset="1"
+         id="stop980" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:7"
+     id="rect1"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:url(#linearGradient4);stroke-width:4"
+     id="rect2"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     d="m 64,24 c -22.530004,0 -40,16.508536 -40,38.79656 0,11.658964 4.78,21.738072 12.56,28.697452 0.65,0.579952 1.05,1.399876 1.07,2.279796 l 0.22,7.119372 c 0.07,2.2698 2.41,3.74967 4.49,2.82975 l 7.94,-3.49969 c 0.67,-0.29996 1.43,-0.34996 2.14,-0.16 3.65,0.99991 7.53,1.53986 11.58,1.53986 22.53,0 40,-16.508536 40,-38.796556 C 104,40.518536 86.53,24 64,24 Z"
+     style="fill:url(#radialGradient1977);fill-opacity:1;stroke-width:0.0999956"
+     id="path1218" />
+  <path
+     d="M 40.30564,73.315244 51.895064,56.206372 C 53.739508,53.480336 57.684844,52.8103 60.45644,54.7378 l 9.22222,6.434188 c 0.848248,0.587424 2.01212,0.587424 2.850504,-0.0088 L 84.9767,52.370108 c 1.65704,-1.17486 3.826976,0.679216 2.72228,2.32218 L 76.099696,71.79198 c -1.84444,2.726044 -5.78978,3.396076 -8.56138,1.468576 l -9.22222,-6.434184 c -0.848248,-0.587428 -2.012124,-0.587428 -2.850504,0.0092 l -12.447536,8.793052 c -1.657044,1.174856 -3.82698,-0.67004 -2.712416,-2.313008 z"
+     style="fill:#ffffff;stroke-width:0.0951484"
+     id="path11549" />
+</svg>
