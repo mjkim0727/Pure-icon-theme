@@ -29,10 +29,18 @@ Mac-Like icon theme for Linux Desktops
 
 ### via sources
 
-Open terminal, and run install.sh file.
+Open terminal, and run install-user.sh or install-system.sh file.
 
 ```
-$ ./install.sh
+# Install on user directory
+
+$ ./install-user.sh
+```
+
+```
+# Install on System directory
+
+$ ./install-system.sh
 ```
 
 ## Preview
