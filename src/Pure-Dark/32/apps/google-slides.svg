@@ -7,7 +7,7 @@
    viewBox="0 0 32 32.000002"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="google-slides.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,10 +25,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="25.25"
-     inkscape:cx="15.980198"
-     inkscape:cy="16"
+     inkscape:cx="15.960396"
+     inkscape:cy="15.960396"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,6 +56,74 @@
          offset="1"
          id="stop14557" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="11.844881"
+       y1="10.397112"
+       x2="18.162739"
+       y2="27.397112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.79921263,-0.47637113)" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffdb0f;stop-opacity:1;"
+         offset="0.20075995"
+         id="stop2" />
+      <stop
+         style="stop-color:#ffbe00;stop-opacity:1;"
+         offset="0.66614175"
+         id="stop4" />
+      <stop
+         style="stop-color:#ffa8e3;stop-opacity:1;"
+         offset="0.90882242"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4-9"
+       id="linearGradient6"
+       x1="16"
+       y1="9"
+       x2="16"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4-9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffbe00;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#fec700;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="22.231325"
+       y1="25.664824"
+       x2="14.356627"
+       y2="9"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff549;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#ffbe00;stop-opacity:0;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
   </defs>
   <rect
      style="fill:#000000;stroke-width:1.75;opacity:0.2"
@@ -73,12 +141,33 @@
      x="2"
      y="2"
      ry="6" />
+  <rect
+     style="fill:url(#linearGradient3)"
+     id="rect2-0"
+     width="17"
+     height="17"
+     x="5.0584812"
+     y="9.9207411"
+     ry="3"
+     transform="rotate(-7.5)" />
+  <rect
+     style="fill:url(#linearGradient6);fill-opacity:1"
+     id="rect1-2"
+     width="20"
+     height="15"
+     x="6"
+     y="9"
+     ry="3" />
+  <rect
+     style="fill:url(#linearGradient8);fill-opacity:1"
+     id="rect6"
+     width="20"
+     height="15"
+     x="6"
+     y="9"
+     ry="3" />
   <path
-     id="path1151"
-     style="fill:#f8bf08;fill-opacity:1;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:bevel"
-     d="M 11 6 C 9.895431 6 9 6.895431 9 8 L 9 24 C 9 25.104569 9.895431 26 11 26 L 21 26 C 22.104569 26 23 25.104569 23 24 L 23 11 L 19 10 L 18 6 L 11 6 z M 11 14 L 21 14 L 21 21 L 11 21 L 11 14 z M 12 15 L 12 20 L 20 20 L 20 15 L 12 15 z " />
-  <path
-     d="m 18,6 5,5 h -5 z"
-     style="fill:#f59307;fill-opacity:1;stroke-width:0.240563;stroke-linecap:square;stroke-linejoin:bevel"
-     id="path1123" />
+     id="rect1220"
+     style="fill:#2f2f2f;stroke-width:0.61237;stroke-linecap:square;stroke-linejoin:bevel;fill-opacity:1"
+     d="m 9,12 v 9 h 14 v -9 z m 1,1 h 12 v 7 H 10 Z" />
 </svg>
