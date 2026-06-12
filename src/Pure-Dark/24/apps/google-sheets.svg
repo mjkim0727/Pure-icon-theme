@@ -7,7 +7,7 @@
    viewBox="0 0 24 24.000002"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="google-sheets.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="33.166667"
-     inkscape:cx="11.984925"
+     inkscape:zoom="33.5"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,7 +44,7 @@
        x2="16"
        y2="2"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71428571,0,0,0.71428571,0.57142859,0.57142857)" />
+       gradientTransform="matrix(0.71428571,0,0,0.71428571,0.5714286,0.5714286)" />
     <linearGradient
        inkscape:collect="always"
        id="4852">
@@ -56,6 +56,64 @@
          style="stop-color:#5d5d5d;stop-opacity:1;"
          offset="1"
          id="stop14557" />
+    </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask6">
+      <rect
+         width="152.53334"
+         height="129.06667"
+         x="31.466669"
+         y="32"
+         fill="#ffffff"
+         id="rect7"
+         style="stroke-width:0.976149"
+         ry="23.466667" />
+    </mask>
+    <filter
+       id="b"
+       width="168"
+       height="126"
+       x="-4"
+       y="33"
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood4" />
+      <feBlend
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         mode="normal"
+         id="feBlend4" />
+      <feGaussianBlur
+         result="effect1_foregroundBlur_37435_8174"
+         stdDeviation="6"
+         id="feGaussianBlur4" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4-2"
+       id="linearGradient6"
+       x1="144.00005"
+       y1="96.000008"
+       x2="24"
+       y2="96"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,10.466667)" />
+    <linearGradient
+       id="linearGradient4-2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0ebc5f;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#78c9ff;stop-opacity:1;"
+         offset="0.95074314"
+         id="stop6" />
     </linearGradient>
   </defs>
   <rect
@@ -74,12 +132,41 @@
      x="2"
      y="2"
      ry="4" />
-  <path
-     id="path1151"
-     style="fill:#34a853;fill-opacity:1;stroke-width:0.249999;stroke-linecap:square;stroke-linejoin:bevel"
-     d="M 8,5 C 7.4477155,5 7,5.4477155 7,6 v 12 c 0,0.552285 0.4477155,1 1,1 h 8 c 0.552285,0 1,-0.447715 1,-1 V 9 L 13.5,8.5 13,5 Z m 0,6 h 7 v 5 H 8 Z m 1,1 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m -3,2 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z" />
-  <path
-     d="m 13,5 4,4 h -4 z"
-     style="fill:#188038;fill-opacity:1;stroke-width:0.19245;stroke-linecap:square;stroke-linejoin:bevel"
-     id="path1123" />
+  <g
+     id="g4"
+     transform="matrix(0.74999998,0,0,0.74999998,-0.4999999,0.2499973)">
+    <rect
+       style="fill:#009954"
+       id="rect1-1"
+       width="13"
+       height="9.333334"
+       x="6"
+       y="11.666671"
+       ry="2" />
+    <g
+       mask="url(#mask6)"
+       transform="matrix(0.11363636,0,0,0.11363636,5.0909091,5.3636403)"
+       id="g3">
+      <path
+         id="path2"
+         d="M 31.466668,31.999966 V 161.06664 H 184.00001 V 31.999966 Z"
+         style="fill:#0ebc5f;fill-opacity:1;stroke-width:0.980443" />
+      <g
+         filter="url(#b)"
+         id="g2">
+        <rect
+           style="fill:url(#linearGradient6);stroke-width:0.22"
+           id="rect4"
+           width="140.8"
+           height="82.133339"
+           x="8"
+           y="55.466667"
+           ry="17.6" />
+      </g>
+    </g>
+    <path
+       id="rect6"
+       style="fill:#2f2f2f;fill-opacity:1;stroke-width:0.333333"
+       d="m 21.333334,13.000004 c -0.369333,0 -0.666667,0.297334 -0.666667,0.666667 v 4.666666 h -6 C 14.297333,18.333337 14,18.63067 14,19.000004 c 0,0.369333 0.297333,0.666667 0.666667,0.666667 h 6 v 1.333333 c 0,0.369333 0.297334,0.666667 0.666667,0.666667 C 21.702667,21.666671 22,21.369337 22,21.000004 v -1.333333 h 1.333334 c 0.369333,0 0.666667,-0.297334 0.666667,-0.666667 0,-0.369334 -0.297334,-0.666667 -0.666667,-0.666667 H 22 v -4.666666 c 0,-0.369333 -0.297333,-0.666667 -0.666666,-0.666667 z" />
+  </g>
 </svg>
