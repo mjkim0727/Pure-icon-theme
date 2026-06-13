@@ -45,6 +45,10 @@ $ ./install-user.sh
 $ ./install-system.sh
 ```
 
+### via AUR
+
+Coming Soon
+
 ## Preview
 
 ![preview](images/icon-preview.png)
